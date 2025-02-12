@@ -1,0 +1,38 @@
+.menu-pnl-buttons {
+    padding: 1%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+
+.menu-button{
+    text-align: center;
+    height: 150px;
+    width: 250px;
+    background-color: white;
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+}
+.menu-button:hover{
+    background-color: rgb(206, 206, 206);
+}
+
+.menu-button img{
+    margin: 0;
+    padding: 0;
+    width: 128px;
+    height: 128px;
+}
+
+.menu-navbar-top{
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 50px;
+    width: 100%;
+    background-color: salmon;
+    margin: ;
+    padding: 0;
+}
