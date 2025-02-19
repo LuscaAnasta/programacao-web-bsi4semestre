@@ -6,6 +6,11 @@
     gap: 10px;
 }
 
+.titulo-div{
+    text-align: center;
+    align-items: center;
+}
+
 .menu-button{
     text-align: center;
     height: 150px;
