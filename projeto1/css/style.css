@@ -5,7 +5,9 @@
     justify-content: center;
     gap: 10px;
 }
-
+a{
+    text-decoration: none;
+}
 .titulo-div{
     text-align: center;
     align-items: center;
@@ -38,6 +40,35 @@
     height: 50px;
     width: 100%;
     background-color: salmon;
-    margin: ;
+    margin: 0;
     padding: 0;
+}
+
+#btnp1:hover{
+    background-color: lightgreen;
+}
+
+#btnp2:hover{
+    background-color: lightcoral;
+}
+
+#btnp3:hover{
+    background-color: lightcyan;
+}
+
+#btnp4:hover{
+    background-color: lightyellow;
+}
+
+#p1{
+    background-color: green;
+}
+#p2{
+    background-color: coral;
+}
+#p3{
+    background-color:cyan ;
+}
+#p4{
+    background-color: yellow;
 }
